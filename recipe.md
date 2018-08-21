@@ -19,7 +19,9 @@
 
 ## Baking result
 
-* Size: Very small
-* Taste: 
-* Softness:  
-* Crust: Not very hard
+* Size: 1/5
+* Taste: 3/5
+* Softness: 2/5 
+* Crust: 3/5
+
+**Total points: 9/20**
