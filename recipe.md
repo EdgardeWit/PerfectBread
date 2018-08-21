@@ -1,4 +1,6 @@
-# Ingredients
+# Recipe for the Perfect Bread
+
+## Ingredients
 
 * 270 ml little warm water (lauwwater)
 * 125 gram wheat water (tarwemeel)
@@ -9,13 +11,13 @@
 * 5 ml natural vingear (natuurazijn)
 * 10 ml sunflower oil (zonnebloemolie)
 
-# Steps
+## Steps
 
 1. Put all ingredients in bread baking machine
 2. Choose option Whole grain bread (Volkorenbrood)
 3. Start timer: 8:30 - End time: 14:45 
 
-# Baking result
+## Baking result
 
 * Size: Very small
 * Taste: 
