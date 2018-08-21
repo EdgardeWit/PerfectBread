@@ -11,6 +11,12 @@
 * 5 ml natural vingear (natuurazijn)
 * 10 ml sunflower oil (zonnebloemolie)
 
+## Materials
+
+* Cake fold 24 cm (Cake vorm)
+* Automatic Bread Maker (AFK BM-2)
+* Electric scale
+
 ## Steps
 
 1. Put all ingredients in bread baking machine
